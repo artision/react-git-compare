@@ -1,14 +1,14 @@
 {
-  "main.js": "/static/js/main.e53b5acf.chunk.js",
-  "main.js.map": "/static/js/main.e53b5acf.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/css/2.35546c80.chunk.css": "/static/css/2.35546c80.chunk.css",
-  "static/js/2.395de905.chunk.js": "/static/js/2.395de905.chunk.js",
-  "static/js/2.395de905.chunk.js.map": "/static/js/2.395de905.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.d836bb87978f8571619a73b8bbea965a.js": "/precache-manifest.d836bb87978f8571619a73b8bbea965a.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.35546c80.chunk.css.map": "/static/css/2.35546c80.chunk.css.map",
-  "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+  "main.js": "/react-git-compare/static/js/main.e53b5acf.chunk.js",
+  "main.js.map": "/react-git-compare/static/js/main.e53b5acf.chunk.js.map",
+  "runtime~main.js": "/react-git-compare/static/js/runtime~main.98aca901.js",
+  "runtime~main.js.map": "/react-git-compare/static/js/runtime~main.98aca901.js.map",
+  "static/css/2.e2e9fc0e.chunk.css": "/react-git-compare/static/css/2.e2e9fc0e.chunk.css",
+  "static/js/2.dfc4ffa2.chunk.js": "/react-git-compare/static/js/2.dfc4ffa2.chunk.js",
+  "static/js/2.dfc4ffa2.chunk.js.map": "/react-git-compare/static/js/2.dfc4ffa2.chunk.js.map",
+  "index.html": "/react-git-compare/index.html",
+  "precache-manifest.2e6e38f2de36622666e0443955d57191.js": "/react-git-compare/precache-manifest.2e6e38f2de36622666e0443955d57191.js",
+  "service-worker.js": "/react-git-compare/service-worker.js",
+  "static/css/2.e2e9fc0e.chunk.css.map": "/react-git-compare/static/css/2.e2e9fc0e.chunk.css.map",
+  "static/media/font-awesome.css": "/react-git-compare/static/media/fontawesome-webfont.fee66e71.woff"
 }
