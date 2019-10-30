@@ -1,6 +1,6 @@
 # Git-Compare-ReactJS
 
-Git Compare application with ReactJS without Duck Pattern.
+Git Compare application with ReactJS.
 
 Run the application with:
 npm install, yarn start
